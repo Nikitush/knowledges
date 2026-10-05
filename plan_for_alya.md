@@ -1,0 +1,47 @@
+- [ ] Сетап компьютера
+	- [ ] WSL https://learn.microsoft.com/ru-ru/windows/wsl/install
+	- [ ] VS Code https://code.visualstudio.com/
+	- [ ] Docker https://docs.docker.com/desktop/setup/install/windows-install/
+- [ ] Python
+	- [ ] Курс https://stepik.org/course/100707/promo?search=4087679172
+	- [ ] Venv https://sky.pro/media/kak-sozdat-virtualnoe-okruzhenie-python/
+	- [ ] Подумать о pipenv+poetry
+	- [ ] pytest https://habr.com/ru/articles/448782/
+	- [ ] задания -- проект по API тестам
+- [ ] ООП
+	- [ ] TODO
+- [ ] Теория тестирования
+	- [ ] TODO
+- [ ] Linux'а
+	- [ ] Установить WSL и пошариться по ней, скрестить с pycharm
+	- [ ] Базовые команды https://habr.com/ru/articles/481398/
+	- [ ] Немного про SSH и зачем нужен https://habr.com/ru/sandbox/166705/ / https://habr.com/ru/articles/724762/
+	- [ ] Про pipe и однострочники https://ansmirnov.ru/unnamed-pipe/ + https://habr.com/ru/companies/vdsina/articles/559464/ + https://my-it-notes.com/2011/09/linux-useful-single-line-bash-commands/
+	- [ ] Docker всю серию статей начиная с https://habr.com/ru/companies/ruvds/articles/438796/ , части 2,4,5 пока что не задрачивать
+	- [ ] Curl/Postman на примерах https://skillbox.ru/media/code/kak-rabotat-s-curl-sintaksis-i-osnovnye-komandy/ + https://qaservicelab.ru/blog/polnyj-gajd-po-postman/
+- [ ] SQL
+	- [ ] Что такое БД
+	- [ ] Первичный и вторичный ключ
+	- [ ] SELECT
+	- [ ] INSERT
+	- [ ] UPDATE
+	- [ ] DELETE
+	- [ ] JOIN
+	- [ ] TRUNCATE
+	- [ ] Вложенные/подзапросы запросы
+- [ ] NoSQL
+	- [ ] Kafka
+		- [ ] консьюмеры
+		- [ ] продюсеры
+		- [ ] топики
+		- [ ] партиции
+	- [ ] Redis
+		- [ ] посмотреть что базово может
+- [ ] Сети
+	- [ ] HTTP, DNS, безопасность
+- [ ] Траблшутинг
+	- [ ] логи
+	- [ ] трейсы
+	- [ ] и тд
+- [ ] ИИ
+	- [ ] TODO
